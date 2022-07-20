@@ -1,0 +1,17 @@
+table,td {
+    border: 1px solid;
+    text-align: left;
+}
+
+.address{
+      height:10vh;
+}
+
+.btns input{
+     text-align: center;
+}
+
+.table2{
+    text-align: center;
+    width: 70vw;
+}
